@@ -9,9 +9,9 @@
 <html>
 <head>
     <title>Главная страница</title>
-    <a href="http://localhost:8080/ThirdLabJava_war_exploded/Manager?path=C://">Перейти на диск C:/</a>
 </head>
 <body>
-
+<a href="Login.jsp">Войти</a>
+<p><a href="Register.jsp">Зарегистрироваться</a></p>
 </body>
 </html>

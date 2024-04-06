@@ -1,3 +1,8 @@
-M:\ThirdLabJava\src\main\java\org\example\MainServlet.java
-M:\ThirdLabJava\src\main\java\org\example\DownloadServlet.java
-M:\ThirdLabJava\src\main\java\service\FileManager.java
+M:\JavaThirdLab-master\src\main\java\org\example\LoginServlet.java
+M:\JavaThirdLab-master\src\main\java\service\Utility.java
+M:\JavaThirdLab-master\src\main\java\service\AuthService.java
+M:\JavaThirdLab-master\src\main\java\org\example\RegisterServlet.java
+M:\JavaThirdLab-master\src\main\java\org\example\DownloadServlet.java
+M:\JavaThirdLab-master\src\main\java\service\FileManager.java
+M:\JavaThirdLab-master\src\main\java\org\example\MainServlet.java
+M:\JavaThirdLab-master\src\main\java\Model\User.java

@@ -1,3 +1,9 @@
-org\example\MainServlet.class
 service\FileManager.class
+Model\User.class
+org\example\LoginServlet.class
+service\AuthService.class
+org\example\MainServlet.class
 org\example\DownloadServlet.class
+org\example\RegisterServlet.class
+service\AuthService$1.class
+service\Utility.class
